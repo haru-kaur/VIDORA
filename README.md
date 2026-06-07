@@ -7,7 +7,7 @@ VIDORA is an AI-powered system that processes multiple types of input including 
 ## Features
 
 - Document Processing and Analysis
-- Image Understanding and Question Answering
+- Image Understanding and Analysis
 - Audio Processing
 - Video Processing
 - Context-Aware Question Answering
@@ -17,10 +17,11 @@ VIDORA is an AI-powered system that processes multiple types of input including 
 
 - Python
 - Streamlit
-- LangChain
 - FAISS
-- OCR
-- OpenAI API / LLM Integration
+- OCR/BLIP
+- Whisper
+- OpenCV
+- LLM Integration and other libraries
 
 ## Project Structure
 
@@ -42,7 +43,26 @@ requirements.txt
 
 ## Screenshots
 
-Can see some screenshots in Folder "Screenshots" of this project.
+### Home Screen
+![Home Screen](Screenshots/Home%20Screen.png)
+
+### Document Processing
+![Document Processing](Screenshots/docx.png)
+
+### Image Processing
+![Image Processing](Screenshots/Image.jpeg)
+
+### Audio Processing
+![Audio Processing](Screenshots/wav.png)
+
+### Empty Document Validation
+![Empty Document](Screenshots/empty%20docx.png)
+
+### No Audio in Video
+![No Audio Video](Screenshots/No%20Audio%20Video.png)
+
+### No Visual Content Detection
+![No Visual AVI](Screenshots/No%20visual%20AVI.jpeg)
 
 ## How to Run
 
@@ -63,6 +83,6 @@ Can see some screenshots in Folder "Screenshots" of this project.
 Hardeep Kaur  
 B.Tech CSE 
 
-## Academic Project
+## Training Project
 
 Developed as a multimodal AI-based knowledge retrieval and question answering system.
