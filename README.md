@@ -55,14 +55,14 @@ requirements.txt
 ### Audio Processing
 ![Audio Processing](Screenshots/wav.png)
 
-### Empty Document Validation
-![Empty Document](Screenshots/empty%20docx.png)
-
 ### No Audio in Video
 ![No Audio Video](Screenshots/No%20Audio%20Video.png)
 
-### No Visual Content Detection
+### No Visual Content in Video
 ![No Visual AVI](Screenshots/No%20visual%20AVI.jpeg)
+
+### Empty Files Validation
+![Empty Document](Screenshots/empty%20docx.png)
 
 ## How to Run
 
