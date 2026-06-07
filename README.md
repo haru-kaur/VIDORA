@@ -1,6 +1,6 @@
 # VIDORA
 
-## Multimodal Knowledge Retrieval and Question Answering System
+## Multimodal Information Retrieval and Question Answering System
 
 VIDORA is an AI-powered system that processes multiple types of input including documents, images, audio, and videos to provide context-aware answers. The system combines multimodal data processing with retrieval-based question answering to improve information access and understanding.
 
@@ -42,7 +42,7 @@ requirements.txt
 
 ## Screenshots
 
-(Add your uploaded screenshots here)
+Can see some screenshots in Folder "Screenshots" of this project.
 
 ## How to Run
 
@@ -58,10 +58,10 @@ requirements.txt
    streamlit run app.py
    ```
 
-## Authors
+## Author
 
 Hardeep Kaur  
-B.Tech CSE (Software Engineering)
+B.Tech CSE 
 
 ## Academic Project
 
